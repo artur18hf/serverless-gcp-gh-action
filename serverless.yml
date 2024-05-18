@@ -1,4 +1,4 @@
-service: serverless-calculate-bmiEdu
+service: serverless-calculate-bmiEduH
 
 provider:
   name: google
